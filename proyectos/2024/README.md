@@ -23,5 +23,6 @@ El objetivo del proyecto final es implementar una plataforma de *streaming*. Un 
 * Subir el programa a un repositorio en Github. Aquí debe de estar toda la documentación sobre el proyecto.
 * Grabar su presentación y colocar el link en su repositorio. El video debe tener un máximo de 15 minutos. Aquel grupo que sobrepase el tiempo tendrá una penalización en su nota.
 * Cumplir con la rúbrica del proyecto.
+* Fecha de presentación 15 de Julio del 2024 (23:59 hrs).
 
 
