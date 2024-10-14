@@ -1,4 +1,4 @@
-# Programación III: Proyecto Final (2024-1)
+# Programación III: Proyecto Final (2024-2)
 
 ## Integrantes
 * Nombre y Apellidos
